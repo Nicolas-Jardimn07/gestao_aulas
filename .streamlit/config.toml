@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#A06B3B"
+backgroundColor = "#F8F5EE"
+secondaryBackgroundColor = "#EFE7D4"
+textColor = "#3A2A18"
+font = "sans serif"
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+maxUploadSize = 15

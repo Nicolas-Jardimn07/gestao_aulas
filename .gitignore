@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/acordes.db
+data/acordes.db-wal
+data/acordes.db-shm
+.venv/
+venv/
